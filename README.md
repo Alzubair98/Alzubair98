@@ -16,6 +16,8 @@
 
 - ⚡ Fun fact **I like to play video games , workout, and sleep 😁**
 
+<img alt="hello" width="400px" src="https://media1.tenor.com/images/81895a1491ee05919842558d867c6143/tenor.gif?itemid=8826009"
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@fitzubair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@fitzubair" height="30" width="40" /></a>

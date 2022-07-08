@@ -1,3 +1,5 @@
+<img alt="hello" width="100%" src="img/banner.png">
+
 <h1 align="center">Hi 👋, I'm Alzubair</h1>
 <h3 align="center">I'm a Front-End Developer, Full-Stack Developer, Data Science and learner</h3>
 <img alt="hello" width="100%" src="https://th.bing.com/th/id/R.d3a1d1edf1777fbd571c2f67589d5544?rik=CATjYYr2uIljlQ&riu=http%3a%2f%2fmedia.giphy.com%2fmedia%2fdjRJNZqj508sE%2fgiphy.gif&ehk=Osoiz91en2txy1Bnfsr9ugA3ysFpKP6cYkXrRhlQsms%3d&risl=&pid=ImgRaw&r=0">

@@ -1,4 +1,4 @@
-<img alt="hello" width="100%" src="img/banner.png">
+<!-- <img alt="hello" width="100%" src="img/banner.png"> -->
 
 <h1 align="center">Hi 👋, I'm Alzubair</h1>
 <h3 align="center">I'm a Front-End Developer, Full-Stack Developer, Data Science and learner</h3>

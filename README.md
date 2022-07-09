@@ -19,11 +19,10 @@
 - ⚡ Fun fact **I like to play video games , workout, and sleep 😁**
 
 
+<img align="center" alt="hello" width="400px" src="https://media1.tenor.com/images/81895a1491ee05919842558d867c6143/tenor.gif?itemid=8826009">
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
-<img align="center" alt="hello" width="400px" src="https://media1.tenor.com/images/81895a1491ee05919842558d867c6143/tenor.gif?itemid=8826009">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

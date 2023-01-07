@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alzubair98&label=Profile%20views&color=0e75b6&style=flat" alt="alzubair98" /> </p>
 
-- 🔭 I’m currently working on **My self 😁**
+- 🔭 I’m currently working on **chat web using rails 😁**
 
 - 🌱 I’m currently learning **Express.js, Node.js, React, Ruby.**
 
